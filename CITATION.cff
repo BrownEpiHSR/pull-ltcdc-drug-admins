@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
+authors:
+- family-names: "Reich"
+  given-names: "Laura"
+  orcid: "https://orcid.org/0009-0003-8424-2276"
+- family-names: "Puleo"
+  given-names: "Joseph"
+- family-names: "D'Amico"
+  given-names: "Adam"
+- family-names: "Lo"
+  given-names: "Derrick"
+- family-names: "Khan"
+  given-names: "Marzan"
+title: "LTCDC Medication Administration Guidance"
+version: 1.0.0
+date-released: 2026-05-22
+url: "https://github.com/BrownEpiHSR/pull-ltcdc-drug-admins"
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "Reich"
+    given-names: "Laura"
+    orcid: "https://orcid.org/0009-0003-8424-2276"
+  - family-names: "Puleo"
+    given-names: "Joseph"
+  - family-names: "D'Amico"
+    given-names: "Adam"
+  - family-names: "Lo"
+    given-names: "Derrick"
+  - family-names: "Khan"
+    given-names: "Marzan"
+  title: "LTCDC Medication Administration Guidance"
+  version: 1.0.0
+  date-released: 2026-05-22
+  url: "https://github.com/BrownEpiHSR/pull-ltcdc-drug-admins"
+
