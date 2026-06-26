@@ -14,7 +14,8 @@ authors:
   given-names: "Marzan"
 title: "LTCDC Medication Administration Guidance"
 version: 1.0.0
-date-released: 2026-05-22
+doi: 10.5281/zenodo.20933081
+date-released: 2026-06-26
 url: "https://github.com/BrownEpiHSR/pull-ltcdc-drug-admins"
 preferred-citation:
   type: generic
@@ -32,6 +33,7 @@ preferred-citation:
     given-names: "Marzan"
   title: "LTCDC Medication Administration Guidance"
   version: 1.0.0
-  date-released: 2026-05-22
+  doi: 10.5281/zenodo.20933081
+  date-released: 2026-06-26
   url: "https://github.com/BrownEpiHSR/pull-ltcdc-drug-admins"
 
