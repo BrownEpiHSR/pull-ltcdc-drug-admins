@@ -1,6 +1,6 @@
 # pull-ltcdc-drug-admins
 
-**❗ License and Citation Notice**
+## License and Citation Notice
 
 This license is publicly available under a GPL-3.0 license.
 If you use this code or documentation in your own research, please cite this resource as:
