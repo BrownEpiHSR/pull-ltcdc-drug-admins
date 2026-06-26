@@ -1,11 +1,11 @@
+# pull-ltcdc-drug-admins
+
 **❗ License and Citation Notice**
 
 This license is publicly available under a GPL-3.0 license.
 If you use this code or documentation in your own research, please cite this resource as:
 
 Reich, L., Puleo, J., D'Amico, A., Lo, D., & Khan, M. (2026). LTCDC Medication Administration Guidance (Version 1.0.0). https://doi.org/10.5281/zenodo.20933081
-
-# pull-ltcdc-drug-admins
 
 ## Purpose
 This repository guides analysts through the Long-Term Care Data Cooperative (LTCDC) medication administration datasets. It serves as both an introductory guide or new users and a reference for establishing consistent analytic standards. Additionally, the repo houses a growing library of reusable code for isolating specific drug classes.
